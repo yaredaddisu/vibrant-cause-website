@@ -1,5 +1,5 @@
 
-import { heart } from "lucide-react";
+import { Heart } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -15,7 +15,7 @@ const Footer = () => {
             </p>
             <div className="flex items-center text-gray-300">
               <span>Made with</span>
-              <heart className="h-4 w-4 text-red-500 mx-1" />
+              <Heart className="h-4 w-4 text-red-500 mx-1" />
               <span>for a better world</span>
             </div>
           </div>

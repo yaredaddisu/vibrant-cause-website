@@ -1,20 +1,20 @@
 
-import { users, heart, handshake } from "lucide-react";
+import { Users, Heart, Handshake } from "lucide-react";
 
 const About = () => {
   const values = [
     {
-      icon: users,
+      icon: Users,
       title: "Community First",
       description: "We believe in the power of communities to create lasting change from within."
     },
     {
-      icon: heart,
+      icon: Heart,
       title: "Compassionate Action",
       description: "Every decision we make is guided by empathy and genuine care for those we serve."
     },
     {
-      icon: handshake,
+      icon: Handshake,
       title: "Collaborative Impact",
       description: "Working together with local partners to ensure sustainable, meaningful progress."
     }
